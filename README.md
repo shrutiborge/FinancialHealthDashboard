@@ -2,6 +2,9 @@
 
 The Financial Health Dashboard is a web application designed to help organizations monitor and analyze their financial health in real-time. It allows users to view various financial metrics, track trends, and receive alerts on significant changes, all through a user-friendly interface optimized for both desktop and mobile usage.
 
+## Demo ##
+Deployed on: `https://dulcet-bavarois-687da4.netlify.app/`
+
 ## Table of Contents
 - [Features](#features)
 - [Tech Stack](#tech-stack)
@@ -30,9 +33,7 @@ The Financial Health Dashboard is a web application designed to help organizatio
 ### Prerequisites
 Ensure you have the following installed:
 - **Node.js**: Required for managing the frontend.
-- **Ruby and Bundler**: Needed for setting up and running the backend.
 - **MySQL**: For the database.
-- **Heroku CLI**: For deployment.
 
 ### Environment Variables
 #### Frontend (.env)
@@ -44,6 +45,3 @@ Ensure you have the following installed:
 
 ## Backend API Setup
 1. **Navigate to the backend directory:**
-
-## Demo ##
-- Deployed on: `https://dulcet-bavarois-687da4.netlify.app/`
