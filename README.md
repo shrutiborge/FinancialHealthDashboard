@@ -45,5 +45,5 @@ Ensure you have the following installed:
 ## Backend API Setup
 1. **Navigate to the backend directory:**
 
-## Output ##
+## Demo ##
 - Deployed on: `https://dulcet-bavarois-687da4.netlify.app/`
